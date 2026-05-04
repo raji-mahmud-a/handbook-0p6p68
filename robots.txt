@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raji-mahmud-a.github.io/handbook-0p6p68/sitemap.xml
